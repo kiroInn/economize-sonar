@@ -1,0 +1,18 @@
+{
+  "name": "sonar",
+  "version": "1.0.0",
+  "description": "engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "query",
+    "data"
+  ],
+  "author": "Kiro Li",
+  "license": "MIT",
+  "devDependencies": {
+    "request": "^2.88.0"
+  }
+}
